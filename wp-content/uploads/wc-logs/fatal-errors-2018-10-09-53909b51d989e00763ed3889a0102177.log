@@ -1,0 +1,16 @@
+2018-10-09T05:35:09+00:00 CRITICAL Call to undefined function simplexml_load_file()
+
+2018-10-09T05:35:58+00:00 CRITICAL Call to undefined function simplexml_load_file()
+
+2018-10-09T09:18:33+00:00 CRITICAL Call to a member function getPostMeta() on null
+
+2018-10-09T09:19:17+00:00 CRITICAL Call to a member function getPostMeta() on null
+
+2018-10-09T09:20:20+00:00 CRITICAL Call to a member function getPostMeta() on null
+
+2018-10-09T09:34:22+00:00 CRITICAL Call to a member function getPostMeta() on null
+
+2018-10-09T10:03:17+00:00 CRITICAL Call to a member function getPostMeta() on null
+
+2018-10-09T10:06:00+00:00 CRITICAL Call to a member function getPostMeta() on null
+

@@ -1,0 +1,318 @@
+# Copyright (C) 2018 Elated Membership
+# This file is distributed under the same license as the Elated Membership package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elated Membership 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/eltd-membership\n"
+"POT-Creation-Date: 2018-05-25 10:12:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: dashboard/dashboard-functions.php:136
+#: dashboard/page-templates/template-parts/profile.php:3
+msgid "Profile"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:141
+msgid "Edit Profile"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:159 login/wordpress-login.php:13
+#: login/wordpress-login.php:58
+msgid "All fields are empty"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:178
+msgid "Passwords don't match"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:186
+msgid "Error. Please insert valid email"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:197
+msgid "Your profile is updated"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:200
+msgid "You are unauthorized to perform this action."
+msgstr ""
+
+#: dashboard/dashboard-functions.php:204
+msgid "Error."
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:3
+msgid "Edit Your Profile"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:9
+#: dashboard/page-templates/template-parts/edit-profile.php:11
+#: dashboard/page-templates/template-parts/profile.php:21
+msgid "First Name"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:14
+#: dashboard/page-templates/template-parts/edit-profile.php:16
+#: dashboard/page-templates/template-parts/profile.php:27
+msgid "Last Name"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:19
+#: dashboard/page-templates/template-parts/edit-profile.php:21
+#: dashboard/page-templates/template-parts/profile.php:33
+msgid "Email"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:24
+#: dashboard/page-templates/template-parts/edit-profile.php:26
+#: dashboard/page-templates/template-parts/profile.php:39
+msgid "Website"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:29
+#: dashboard/page-templates/template-parts/edit-profile.php:31
+#: dashboard/page-templates/template-parts/profile.php:45
+msgid "Description"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:36
+msgid "Manage your password"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:39
+#: dashboard/page-templates/template-parts/edit-profile.php:41
+msgid "Password"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:44
+#: dashboard/page-templates/template-parts/edit-profile.php:46
+msgid "Repeat Password"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:52
+#: dashboard/page-templates/template-parts/edit-profile.php:61
+msgid "Save Changes"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:56
+msgid "Saving Changes"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:57
+msgid "Changes Saved"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/navigation.php:33
+#: widgets/login-widget/templates/login-widget-template.php:30
+msgid "Log out"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/profile.php:8
+msgid "You are currently signed in as"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/profile.php:11
+msgid "Sign out"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:28
+#: shortcodes/login/templates/login-template.php:38
+msgid "Login"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:31
+#: shortcodes/register/templates/register-template.php:32
+msgid "Register"
+msgstr ""
+
+#: dashboard/register-template.php:64
+msgid "User Dashboard"
+msgstr ""
+
+#: eltd-membership-options.php:17 eltd-membership-options.php:24
+msgid "Enable Social Login"
+msgstr ""
+
+#: eltd-membership-options.php:25
+msgid "Enabling this option will allow login from social networks of your choice"
+msgstr ""
+
+#: eltd-membership-options.php:37
+msgid "Enable Login via"
+msgstr ""
+
+#: eltd-membership-options.php:46
+msgid "Facebook"
+msgstr ""
+
+#: eltd-membership-options.php:47
+msgid "Enabling this option will allow login via Facebook"
+msgstr ""
+
+#: eltd-membership-options.php:67
+msgid "Facebook App ID"
+msgstr ""
+
+#: eltd-membership-options.php:68
+msgid "Copy your application ID form created Facebook Application"
+msgstr ""
+
+#: eltd-membership-options.php:76
+msgid "Google+"
+msgstr ""
+
+#: eltd-membership-options.php:77
+msgid "Enabling this option will allow login via Google+"
+msgstr ""
+
+#: eltd-membership-options.php:97
+msgid "Client ID"
+msgstr ""
+
+#: eltd-membership-options.php:98
+msgid "Copy your Client ID form created Google Application"
+msgstr ""
+
+#: login/common.php:49
+msgid "Not valid user"
+msgstr ""
+
+#: login/facebook-login.php:67 login/google-login.php:65
+#: login/wordpress-login.php:41
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: login/wordpress-login.php:33
+msgid "Wrong username or password."
+msgstr ""
+
+#: login/wordpress-login.php:79
+msgid "Something went wrong"
+msgstr ""
+
+#: login/wordpress-login.php:85
+msgid "User Registration"
+msgstr ""
+
+#: login/wordpress-login.php:86
+msgid "You have registered successfully on "
+msgstr ""
+
+#: login/wordpress-login.php:88
+msgid "You have registered successfully, please login with the created credentials"
+msgstr ""
+
+#: login/wordpress-login.php:92
+msgid "Both passwords must match in order to register"
+msgstr ""
+
+#: login/wordpress-login.php:95
+msgid "Username already exists"
+msgstr ""
+
+#: login/wordpress-login.php:97
+msgid "User with that name already exists"
+msgstr ""
+
+#: login/wordpress-login.php:120
+msgid "We have sent you an email"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:13
+msgid "User Name*"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:15
+#: shortcodes/register/templates/register-template.php:10
+msgid "Three or more characters"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:19
+msgid "Password*"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:25
+msgid "Remember me"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:28
+msgid "Lost Password?"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:28
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:43
+msgid "Sign in"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:57
+#: shortcodes/register/templates/register-template.php:45
+msgid "Or Connect with Social Networks"
+msgstr ""
+
+#: shortcodes/register/register.php:56
+msgid "You don't have permission to register"
+msgstr ""
+
+#: shortcodes/register/register.php:60
+msgid "You are already logged in"
+msgstr ""
+
+#: shortcodes/register/templates/register-message.php:3
+#: shortcodes/register/templates/register-message.php:4
+msgid "Log in"
+msgstr ""
+
+#: shortcodes/register/templates/register-template.php:8
+msgid "Your Name*"
+msgstr ""
+
+#: shortcodes/register/templates/register-template.php:14
+msgid "Your E-mail Address*"
+msgstr ""
+
+#: shortcodes/register/templates/register-template.php:17
+msgid "Choose a secured password*"
+msgstr ""
+
+#: shortcodes/register/templates/register-template.php:20
+msgid "Repeat Password*"
+msgstr ""
+
+#: shortcodes/register/templates/register-template.php:27
+msgid "Create a New Account"
+msgstr ""
+
+#: widgets/login-widget/login-widget.php:9
+msgid "Elated Login"
+msgstr ""
+
+#: widgets/login-widget/login-widget.php:10
+msgid "Login and register, connect with social networks"
+msgstr ""
+
+#: widgets/login-widget/templates/login-modal-template.php:4
+msgid "Sign Up Now"
+msgstr ""
+
+#: widgets/login-widget/templates/login-modal-template.php:5
+msgid "Log In Now"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Elated Membership"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds social login and user dashboard page"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elated Themes"
+msgstr ""

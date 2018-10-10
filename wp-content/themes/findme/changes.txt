@@ -1,0 +1,63 @@
+1.4
+- Added WooCommerce 3.4.0 compatibility
+- Added option 'Website Link Target' to Elated Options -> Listing -> Single
+- Improved listing average rating functionality
+- Updated Elated Listing plugin to 1.2
+- Updated Elated Core plugin to 1.2
+- Updated Elated Membership plugin to 1.0.2
+- Updated Revolution Slider to 5.4.7.4
+- Updated pot file
+- Fixed Listing Search category problem
+- Fixed Listing Advanced Search selected region
+- Fixed problem with minimal header menu when only one item has children
+- Fixed problem with video on single listing
+- Fixed problem to show first featured items on archive pages
+
+1.3
+- Added WooCommerce 3.2.6 compatibility
+- Added recommended plugins (WooCommerce and Contact Form 7)
+- Updated Elated Listing plugin to 1.1.3
+- Updated Visual Composer to 5.4.5
+- Updated Revolution Slider to 5.4.6.4
+- Improved archive pages filter functionality
+- Fixed Yoast conflict with Listing Types taxonomy
+
+1.2.2
+- Added Woocommerce 3.2.3 compatability
+- Updated Visual Composer to 5.4.2
+- Updated Revolution Slider to 5.4.6.2
+- Updated Elated Listing plugin to 1.1.2
+- Upadate Elated Core plugin on version 1.1.1
+- Fixed bug with location filter on archive pages if all locations option is selected
+- Fixed header misalignment on latest chrome version
+- Improved import functionality
+
+
+1.2.1
+- Updated Elated Listing plugin to 1.1.1
+- Fixed bug with location filter on archive pages
+- Fixed bug with time of comment not working
+
+1.2
+Please be sure to back up your database before applying theme 1.2 update
+- Updated Elated Listing plugin to 1.1
+- Updated WPBakery Page Builder to 5.3
+- Updated Revolution Slider to 5.4.6
+- Updated pot file of Elated Listing
+- Fixed bug of amenities and custom fields with wpml
+- Fixed Elated Listing Package linking
+
+1.1.2
+- Updated Elated Listing plugin to 1.0.3
+- Updated Slider Revolution plugin to version 5.4.5.1
+- Fixed 'Elated Listing Advanced Search' submit button
+
+1.1.1
+- Updated Elated Listing plugin to 1.0.2
+- Fixed warning for non-existing wishlist function
+
+1.1
+- Updated Visual Composer plugin to version 5.2.1
+- Updated Elated Listing plugin to version 1.0.1
+- Updated Elated Membership plugin to version 1.0.1
+- Improved 'User Dashboard' UI
